@@ -10,6 +10,6 @@
 | Vjudge | [nafijimtiaz](https://vjudge.net/user/nafijimtiaz) | 206 | N/A | N/A |
 | Toph | [nafijimtiaz](https://toph.co/u/Nafij.333358) | 40 | N/A | N/A |
 | LightOj | [nafijimtiaz](https://lightoj.com/user/user-btb0pipl) | 18 | N/A | N/A |
-| Spoj | nafijimtiaz | 10 | N/A | N/A |
+| Spoj | [nafijimtiaz](https://www.spoj.com/users/nafijimtiaz/) | 10 | N/A | N/A |
 | CSES | [nafijimtiaz](https://cses.fi/user/157601) | 82 | N/A | N/A |
 | **Total** | | **2609** | | **249** |
